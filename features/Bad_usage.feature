@@ -1,5 +1,5 @@
 Feature: Bad usage
-    As a lazy coffee user
+    As a very lazy coffee user
     I can ignore the message displayed by the machine
     So I can have a delicious coffee and let other people have to clean after me
 
