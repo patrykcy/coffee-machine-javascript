@@ -11,3 +11,4 @@ Feature: Bad usage
     Then message "Empty grounds" should be displayed
     And coffee should be served
     And coffee should be drinked
+    And coffee should be enjoyed
