@@ -1,4 +1,4 @@
-Feature: Serve coffee
+Feature: test-c4j
     As a coffee lover
     I can get coffee from the machine
     So I can enjoy the rest of the day
